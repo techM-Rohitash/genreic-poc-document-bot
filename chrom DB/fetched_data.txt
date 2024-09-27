@@ -1,0 +1,2561 @@
+Document ID: esgreport
+Filename: esgreport.pdf
+Content:
+2
+Who We Are
+World Recognitions
+Integrated Annual Report 2022 -23
+Our Journey
+What Got Us Here
+Sustainability Policy
+ESG Governance and Policies
+Materiality Assessment and Stakeholder Identification
+Stakeholders Identified and Material Issues
+Stakeholders Engagement and ESG Roadmap
+Rejuvenating the Environment
+Enabling Stakeholders to Rise
+Building Enduring Business
+Materiality Impact for External Stakeholders
+Making Supply Chain Sustainable
+Supplier Performance review
+Observations and Recommendations –Supplier Performance Review Feedback
+Customer Centricity Office (CCO)
+Customer Centricity Office (CCO) Initiatives
+CSAT
+Sustainable Development Goals
+ESG Disclosure
+Environment and Climate
+Environment Management System ISO 14001:2015
+Occupational Health and Safety Management System ISO 45001:2018
+Human Rights: Due Diligence Process
+Human Rights Assessment: Review and Mitigation
+Corporate Governance
+Risk Management at Tech Mahindra
+Emerging Risks
+Making Sustainability Personal
+Biodiversity Commitments
+Copyright © 2023 Tech Mahindra. All Rights Reserved.3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+13
+14
+15
+20
+21
+22
+25
+27
+29
+31
+32
+33
+34
+36
+4723
+24
+40
+45
+54533
+Committed to pursue ‘Purpose 
+Beyond Profits’
+Embedding ESG principles into 
+our core strategy
+Maintaining a balance 
+between sustainability and 
+overall business profitability
+Creating a long -term positive 
+impact on the planet and 
+society
+Providing greater value for all 
+our stakeholders•Lead sustainability 
+transformation through 
+process improvements, 
+innovation and disruption
+•To be rated amongst the 
+top brands to work for
+•Focused responsible 
+business growthTo be in Top 5 IT services 
+of the world and sustain 
+leadership position in India 
+for sustainability.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.4
+Ranked 1stamongst the top IT companies of the 
+world in the “TSV IT Services” segment with a 
+score of 89 and 100 percentile
+Dun & BradstreetDow Jones Sustainability Index (DJSI) 2022The only Indian company out of 44 companies 
+that have been awarded HRH The Prince of 
+Wales Terra Carta Seal in 2021
+HRH The Prince of Wales Terra Carta Seal
+SUSTAINALYTICS
+MSCIRanked #1 for our sustainability effortsS&P Global -Sustainability Yearbook 2023
+Carbon Disclosure Project  (CDP) 2022
+‘A’ Score in water security, ‘A -’ in climate change 
+and listed on the supplier engagement 
+leaderboard
+Businessworld The Sustainable World 
+Conclave 2023
+Ranked #1 amongst top 25 most sustainable IT 
+companies in India
+FTSE4Good Index Series 2022
+Constituent of Financial Times Stock Exchange -
+Russell Group
+Sustainalytics 2023
+Included in the top -rated ESG companies list
+Capri Global Capital HURUN List Impact 50 
+for SDG Goals
+Ranked #2 with a sustainability score of 46
+Morgan Stanley Capital International 2022
+Awarded ‘A’ rating badge
+Dun & Bradstreet India
+Top performer in the ESG performance in software 
+and BPM sector
+Dun & Bradstreet ESG Leadership Summit 
+2023
+Felicitated in the category ‘Environmental Risks 
+and Opportunities’ 
+Economic Times Sustainability Congress 
+2022
+Recognized for adopting valuable sustainable 
+initiatives
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+5
+The report is aligned to include 
+the recommendations of the 
+Taskforce on Carbon Related 
+Financial Disclosures (TCFD)
+The standalone report 
+is prepared as per the 
+Integrated Reporting 
+Framework
+The report is aligned to 
+include recommendations of
+Sustainability Accounting 
+Standards Board (SASB)
+TheGRI Standards are first 
+global standards for sustainability 
+reporting. The performance of the 
+company to achieve its strategic 
+objectives and outcomes is reported 
+using GRI Standards 2021
+Aligned to UNGC principles
+Purpose. People. 
+Performance.
+Assurance of 
+sustainability 
+disclosures by KPMG 
+(external 3rdparty)
+Purpose. People. 
+Performance.
+Assurance of 
+sustainability 
+disclosures by KPMG
+(external 3rdparty)
+Copyright © 2023 Tech Mahindra. All Rights Reserved.62016
+•Listed in Dow Jones 
+Sustainability Indices (DJSI)
+•and rated “A
+•Constituent of the 
+FTSE4Good Emerging Index 
+•Rated Gold in CII 
+Sustainability Plus Corporate 
+Assessments 2017
+•DJSI World Index & Emerging 
+market
+•Silver Class distinction in the 
+DJSI Sustainability Yearbook
+•Listed as ‘Rising Star’ in the 
+CDP’s India Leaders
+•Member of UNGC
+•CDP Global Supplier A List
+•FTSE4Good Emerging Index 2018
+•Made it to DJSI World Ranking & 
+DJSI Emerging Markets Index
+•World Leader for Supplier 
+engagement on Climate Change 
+by CDP
+•Listed as a ‘Rising Star’ in the 
+CDP’s India Leaders
+•Emission targets approved by SBTi 
+•Awarded Prime status by ISS -
+oekom , 
+•Included in the RobecoSAM
+Sustainability Yearbook & received 
+Silver Class distinction 
+•Awarded ‘Silver CSR Rating’ by 
+EcoVadis
+•Constituent of the FTSE4Good 
+Index2019
+•Recognized as part of CDP 
+Global Supplier A List and 
+leadership ranking of A -in CDP
+•Made it to DJSI World Ranking 
+and DJSI Emerging Markets 
+Index
+•World Leader for supplier 
+engagement on climate 
+change by CDP
+•Included in the RobecoSAM
+2019 Sustainability Yearbook 
+with a Silver Class distinction 
+•Awarded Prime status by ISS -
+OEKOM, for our sustainability 
+initiatives
+•Achieved ‘Silver CSR rating’ by 
+ECOVADIS
+•Constituent of FTSE4Good 
+Index Series 
+•Signatory to UNGC
+•SBTi targets approved2020
+•Recognized as part of CDP 
+Global Supplier A List and  
+leadership ranking of A -in CDP
+•DJSI World Index -2019: Re -
+emerged as a leader in 
+sustainability
+•DJSI Emerging Market category: 
+One of 12 Indian companies 
+•Ranked among the Top 6 
+companies of the world in the 
+“TSV* ‘IT Services and Internet 
+Software and Services” segment 
+•Constituent of FTSE4Good Index 
+Series 
+•Awarded Highest ‘Gold CSR 
+Rating’ by EcoVadis with 94%.
+•Microsoft Global Supplier 
+Leadership Award on climate 
+change 2019
+•Achieved GOLD performance 
+level in TIA which is accredited 
+by ANSI
+•Awarded Prime status by ISS, 
+our sustainability performance 
+among the best 10% in the 
+sector
+•Signatory to UNGC2021
+•Carbon Disclosure Project -2020: 
+The only Indian IT company to 
+score ‘A’ in both CDP Climate and 
+CDP Water
+•CDP SER: Included in the Climate 
+Disclosure Project (CDP) Supplier 
+Engagement Rating (SER) A list 
+2020
+•DJSI Emerging Markets 2020: One 
+of only 11 Indian Companies
+•DJSI World Index 2020: One 
+amongst only 3 IT companies from 
+India
+•Corporate Knights: Only Indian 
+company recognized amongst the 
+‘2021 Global 100 Most 
+Sustainable Corporations’
+•S&P Global -Sustainability 
+Yearbook 2021: Awarded with 
+Bronze Class and included in the 
+Top 10 IT Service Companies 
+Globally
+•Winner of Mahindra Group 
+Sustainability Performance Award 
+2020•CDP 2021: The only Indian IT 
+company to score ‘A’ in both 
+Climate Change and Water 
+Security
+•CDP SER : Recognized as CDP 
+Supplier Engagement Leader 
+2021
+•DJSI 2021: Ranked 1stamongst 
+top IT companies of the world in 
+the “TSV IT Services” segment 
+with score of 85 and 99 
+percentile
+•S&P Global –Sustainability 
+Yearbook 2022 : One of only 2 IT 
+services companies awarded with 
+Gold Class
+•DJSI World Index 2021: One 
+amongst only 5 IT companies from 
+India.
+•DJSI Emerging Markets 2021: One 
+of only 15 Indian Companies•CDP 2022: ‘A’ Score in Water Security & ‘A -’ in Climate Change & CDP 
+SER 2022 : Recognized as CDP Supplier Engagement Leader 2022
+•DJSI 2022: Ranked amongst the top IT companies of the world in the 
+“TSV IT Services” segment with score of 89 and 100 percentile
+•S&P Global Sustainability Yearbook 2023 : Amongst the Top 1% of 
+organizations in the global IT Services segment.
+•MSCI 2022: Awarded ‘A’ rating badge
+•FTSE4Good Index Series 2022: Constituent of Financial Times Stock 
+Exchange -Russell Group
+•Sustainalytics 2023: Included in the Top -rated ESG companies list
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+2022
+20237
+CHANGING 
+CLIMATE
+•Scope 1+2 reduced by 
+40% against base year 
+FY15 -16
+•Reduction of 17,553 
+MTCO2e GHG emissions 
+by renewable energy
+•Supporters of TCFD and 
+caring for climate
+•Identified risks through 
+Scenario Analysis for IEA 
+NZE 2050, 2DS and RCP 
+4.5, 8.5
+•Implemented Internal 
+Carbon Price of $13 per 
+ton CO2eWATER 
+STEWARDSHIP
+•Recycled and reused 
+more than 200 million 
+Liters
+•3.06 million liters of 
+ground water level 
+Recharged through 
+Rainwater Harvesting 
+Plants in FY 2022 -23
+•29 tonnes (22%) of food 
+waste is converted to 
+manure through OWC & 
+Vermicomposting
+ENERGY 
+UTILIZATION
+•Increased RE from 
+1.77% (in baseline year 
+FY15 -16) to 21.90% in 
+FY 2022 -23
+•Energy intensity reduced 
+by 63% against base 
+year FY15 -16 against 
+employee headcount
+•10,185.72 MTCO2e 
+through LEDs, sensors 
+and efficient equipment
+Signatory To 
+Business 
+Ambition of 
+1.5 °C and The 
+Climate Pledge 
+to Reach Net 
+Zeroby 2040
+Reduce, 
+Recycle, 
+Recover, and 
+Reuse wasteCarbon price 
+of $13 
+ImplementedMaking 
+Sustainability 
+Personal
+Our Commitment 
+to Increase RE 
+mix to 50% till 
+FY 2024 -25 and 
+90% by FY 
+2029 -30TCFD 
+Supporters
+Carbon 
+Neutrality by 
+FY 2030 & 
+Net Zero by 
+FY20352°C SBTi 
+Targets 
+Approved -
+22% by FY30 
+& 50% by 
+FY50Compliance 
+and
+Certification
+UNGC 
+Signatory of 
+“Caring for 
+Climate”Water 
+StewardshipSustainable 
+Supply Chain
+Tech Mahindra has integrated 
+sustainability into our core 
+strategy with the intent of 
+extending our responsibility from 
+immediate benefits to ensuring 
+long-term good. Our sustainability 
+practices and initiatives, including 
+carbon pricing, science -based 
+targets, and investment in green 
+technology solutions will help us 
+in moving towards a low carbon 
+economy while creating a greater 
+value for our stakeholders.
+Sandeep Chandna, 
+Chief Sustainability Officer
+Copyright © 2023 Tech Mahindra. All Rights Reserved.NEW TERRAIN
+•71% of waste 
+reused/recycled/upcycled
+/ sold to recycler
+•Signatory to Business 
+Ambition of 1.5 °C and 
+member of 1.5 °C Supply 
+Chain Leaders by 
+Exponential Roadmap 
+Initiative
+•Audited and assessed 
+142 key suppliers on ESG 
+aspects till FY 2022 -23
+•Conducted capacity 
+building workshop for our 
+200+ key suppliers on 
+sustainability practicesENVIRONMENTAL 
+TARGETS
+•Carbon neutrality by FY 2030
+•Net zero target by FY 2035
+•Increase renewable energy mix 
+to 50% by FY 2024 -25 & 90% 
+by FY 2029 -30
+•Zero waste to landfill 
+certification for 100% owned 
+facilities by FY 2025 -26
+•Reduce energy consumption by 
+20% till FY 2029 -30 against 
+base year FY 2020 -21.““8Tech Mahindra’s undeterred 
+focus on good corporate 
+governance is strengthened by 
+our commitment to sustainable 
+development. We aim to follow 
+and promote sustainable 
+business practices and to co -
+create sustainable business value 
+for our stakeholders to achieve 
+their sustainability goals. We 
+believe that environmentally 
+sustainable business operations 
+will empower us to create a 
+sustainable future. 
+Through the policy we shall 
+contribute to development of a 
+sustainable future for our 
+business by: 
+•Making workplace sustainable  
+•Leveraging innovative green 
+solutions and technologies  
+•Collaborating with customers 
+and partners to develop 
+sustainable solutions to solve 
+ecological problems 
+•Promoting sustainability in 
+supply chain
+Tech Mahindra as a global IT 
+services and consulting company, 
+recognizes the impacts of its 
+business operations on the 3 key 
+pillars of sustainability viz people, 
+planet, and profit. Tech Mahindra 
+makes continuous efforts to 
+optimize efficiency across the 
+environmental, social and 
+governance framework of the 
+company.Sustainability is at the very core 
+of Tech Mahindra. We have 
+aligned our strategy, culture, 
+and future to sustainable 
+growth, and will continue to 
+follow a focused approach 
+towards all aspects ESG. We 
+stress on unleashing the 
+potential of our associates, 
+growing their skill quotient, and 
+building a workplace where they 
+truly belong. We continued to 
+drive positive change in our 
+communities while continuing 
+our journey towards 
+decarbonization.
+CP Gurnani
+MD & CEO,
+Tech Mahindra““
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+9Sustainability Policy Climate Change Policy
+Water Management PolicyEnvironmental Policy
+Sustainable Supply Chain Management PolicySSCM Supplier Code Of 
+ConductHuman Rights Policy
+Health Safety and 
+Environment Policy
+Green Procurement 
+PolicyBusiness Responsibility 
+PolicyWaste Management Policy
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+10
+In identifying our 
+stakeholders, we consider 
+impact on:
+•Revenue
+•P&L
+•Business Continuity
+•Brand Value
+•Operating Cost
+•Compliance and Regulation
+•Business Growth
+External Stakeholders 
+include:
+•Customers
+•Investors and Shareholders
+•Partners and Collaborators
+•Government and Local Bodies
+•Academic institutions
+•Suppliers and Vendors
+•Local Communities and NGOs
+Internal Stakeholders
+include:
+•Organization Facility/Location
+•Department Heads
+•AssociatesAt Tech Mahindra, we undertake 
+materiality as one of the critical 
+processes in identifying and prioritizing 
+the most pertinent issues. We review 
+the progress of our material matters 
+annually after discussions with our 
+stakeholders and update some of the 
+aspects of materiality matrix if needed.
+Ourmateriality assessment 
+isintegrated into company's ERM 
+process, and it is signed off by 
+oursenior management i.e., Chief 
+Sustainability Officer.Identify
+material 
+topics and 
+their Impacts
+Shortlisting of topics
+based on likely impact
+on the companyIdentify actual and 
+potential Impacts
+Assess the severity, likelihood of 
+occurrence and it’s impact on 
+economy, environment, and 
+people, including human rights, 
+across its activities and business 
+relationships, both current and 
+potential
+Engagement with
+Internal and External 
+Stakeholders
+Questionnaire -based interactions
+with customers, investors, NGOs
+(TMF), partners and collaborators,
+academic institutions, and
+suppliers/ vendors, and internal 
+stakeholders -respective business 
+heads, subject matter experts within 
+the organisation
+Analysis with 
+Prioritisation
+Analysis of topics for their 
+severity and irremediability, 
+prioritization with respect to 
+severity of the impact time of 
+action required
+Identify the 
+remendability of 
+negative impacts 
+and risks
+Review of material topics 
+from a risk perspective, 
+scenario planning (climate), 
+evaluation of likelihood and 
+impact, linkage with the risk 
+register.Linkage to 
+business 
+strategy and 
+performance
+Defining KPIs to monitor 
+performance, linking with 
+the balanced score card of 
+the key departments and 
+employeesMATERIALITY 
+ASSESSMENT 
+PROCESS
+The materiality topics are identified and 
+aligned on the likelihood of it’s impact 
+on the Company based on our 
+stakeholder engagement process. Our 
+material topics are aligned with 
+roadmap targets, policies, procedures, 
+risk register, strategies and BSC.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+11Suppliers and Vendors
+•Supply Chain 
+Management
+•Energy and Emissions 
+Management Awareness 
+•Climate Change
+Employees
+•Employee Engagement, 
+Safety and Wellbeing
+•Talent and Skill 
+Management 
+•Diversity and InclusionInvestors & 
+Shareholders 
+•Ethics and Compliance
+•Corporate Governance
+•Innovation 
+•Diversity and Inclusion
+•Economic Performance
+Government & Local 
+Bodies
+•Ethics and Compliance
+•Corporate Citizenship
+•Climate Change
+Local Communities 
+and NGOs 
+•Corporate Citizenship
+•Diversity and Inclusion
+•Economic PerformanceCustomers
+•Innovation
+•Cyber Security and Data 
+Privacy
+•Supply Chain Management
+•Ethics and Compliance
+Partners and 
+Collaborators
+•Climate Impact
+•Innovation
+•Energy and Emissions 
+Management
+Academic Institutions
+•Employee Engagement, 
+Wellbeing and Safety
+•Talent and Skill 
+Management 
+•Innovation
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+12
+Engagement with stakeholders 
+helps us understand their 
+explicit and tacit needs that 
+inform our strategy and 
+operational decisions. We follow 
+a robust process for 
+engagement with both internal 
+and external stakeholders based 
+on the need and context. We 
+adopt various methods to 
+ensure that we understand 
+stakeholder's needs and 
+concerns. We also effectively 
+work towards addressing these 
+needs.ESG roadmap -Our material 
+topics are aligned and duly 
+approved by the respective 
+department heads .
+The performance of relevant 
+personnel is linked to the 
+balanced scorecards and KRAs. 
+The targets have been set by 
+the department heads based on 
+materiality issues. 
+Environmental, strategy and 
+people related risks were 
+evaluated in terms of likelihood 
+of occurrence and its impact on 
+business.
+For more details on ESG Roadmap, 
+please refer to page 140 onwards of  
+Integrated Annual Report 2022 -23For more on details on Stakeholder 
+Engagement, please refer to pdf page 
+127 & Materiality on pdf page 132 of  
+Integrated Annual Report 2022 -23
+Copyright © 2023 Tech Mahindra. All Rights Reserved.13AspectMahindra 
+Sustainability 
+FrameworkTargetBase Year 
+(2020 -21)2022 -23Target year 
+(2025 -26)
+Employee 
+Engagement 
+and RetentionBuild a great place 
+to workImprovement in 
+employee 
+engagement score3.7 -* 4.15
+Gender 
+DiversityFoster inclusive 
+developmentIncreasing 
+percentage of 
+women in senior 
+management 8.08 10.22 14%
+Integrating 
+Sustainability 
+into BusinessMake 
+sustainability 
+personal Sustainability 
+training of total 
+associates25% 100% 100%
+Talent 
+RetentionBuild a great place 
+to workIT attrition rate % 13.3 14.8 16.5
+CSRFoster inclusive 
+developmentDirect and
+indirect
+beneficiaries
+of (Figures in
+Lakhs)3.85 
+(cumulativ
+e 
+from 
+2012)0.62 
+(Direct)
+21.78 
+(Indirect)0.7 (Direct)**
+25 
+(Indirect)**
+Foster inclusive 
+developmentSMART vocational 
+training centres
+across all locations 
+of operations with
+80% placement69 79 120
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+AspectMahindra 
+Sustainability 
+FrameworkTargetBase Year* 
+(2015 -16)2022 -23Target 
+Year 
+(2025 -26)
+GHG Emissions Achieve carbon 
+neutralityReduction in Scope 1 -2 
+GHG emissions in MTCO2e114,309 68,661.5369,729** 
+(39% 
+reduction)
+WaterBecoming water 
+positiveReduction in per capita 
+freshwater consumption 
+kL/employee13.73 4.8211** (20% 
+decrease)
+Waste 
+ManagementEnsure no waste to 
+landfillReduction in Paper 
+Consumption in Tonnes93.37 12.6146.69** 
+(50% 
+reduction)
+Ensure no waste to 
+landfillComposting food waste at 
+owned locations0 313 owned 
+locations
+* Base year for Environmental indicators is FY16 and start year (when target is set) is FY21.
+** Many of our employees are still working from home. While taking targets for FY26, we have considered the increase in the n umber of 
+associates working from office in future years which may lead to an increase in figures.
+* Associate engagement survey is planned in Q2’ FY24.
+** The target has been updated.14AspectMahindra 
+Sustainability 
+FrameworkTargetBase Year 
+(2020 -21)2022 -23Target Year 
+(2025 -2026)
+Promoting 
+InnovationEmbrace technology 
+and innovationNumber of innovation 
+contests and events per 
+year57 30 80
+Embrace technology 
+and innovationNumber of ideas 
+incubated in labs 
+(including IRIS, IP and 
+Makers Lab) per year20 30 40
+Realization of 
+opportunities 
+from 
+Innovation Embrace technology 
+and innovationRevenue from innovative 
+solutions (in USD million)355 520 700
+Connecting 
+with CustomersEnhance brand equity Customers connected 145 160 200
+Supply ChainMake supply chain 
+sustainableNumber of top suppliers 
+to be audited yearly on 
+sustainability parameters2 142 200
+Reducing 
+Carbon 
+Footprint in 
+Supply ChainMake supply chain 
+sustainableEngaging with IT suppliers 
+to estimate GHG emission 
+from products 
+manufactured for Tech 
+Mahindra- 7 20
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+Cybersecurity and Data Privacy
+The Chief Information Security Officer (CISO) heads the Internal Security Group (ISG) 
+function and chairs the Subsidiary Security Council, which comprises management leadership 
+from our subsidiaries. He reports all cybersecurity risks to the Chief Risk Officer (CRO) of the 
+executive management, and the risk management Committee of the Board. The CISO also 
+updates all cybersecurity aspects to Manoj Bhat, a non -executive member of the Board, who 
+has an oversight of cybersecurity strategy of the organization.
+The CISO is aided by the data privacy function in overseeing and implementation of privacy 
+practices across all our business functions.
+15FY 2021 -22 FY 2022 -23
+Category Total (A)Emp. Trained 
+(B)% of Emp. 
+Trained (B/A)Total (A)Emp. Trained 
+(B)% of Emp. 
+Trained (B/A)
+Contractual 
+Employees. 
+(Other than 
+permanent 
+employees)12836 8902 69.40% 10494 8036 76.56%Material issues of external stakeholders are crucial for Tech Mahindra as they 
+significantly influence business success, reputation, and sustainability. These issues 
+encompass concerns that hold relevance for stakeholders, such as customers, 
+contractors, investors, regulators, and communities. Prioritizing and addressing these 
+material issues ensures alignment with broader societal expectations, boosting 
+reputation, profitability, and long -term viability thereby fostering positive 
+relationships and trust.
+As per the materiality assessment conducted in FY 2023, we have identified two key 
+material issues, human rights and waste management , which has significant impact 
+on our external stakeholders:
+•Our impact assessment of conducting human rights training for contractors / 
+contractual employees (other than permanent) has revealed a positive impact on 
+their living standards by ensuring zero cases of workplace discrimination. This has 
+been derived using an Internal methodology.
+•The training has helped in increasing awareness of these contractual employees on 
+their basic human rights to safe working conditions, fair treatment at work, 
+equitable compensation and access to various grievance redressal mechanisms 
+which has led to increased productivity, job satisfaction and a healthier work 
+environment. Enhanced employee well -being and satisfaction positively influence 
+productivity and retention rates elevating the rights and living standards of 
+contractual staff, benefiting both the employees and the organization. Human Rights
+Output metric linked to human rights →% of Contractual staff trained on human rights
+Impact metric to measure external impact →Reduction in number of cases of workplace 
+discrimination 
+76.56% Contractual staff trained on human rights in FY 2022 -23
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+16FY 2021 -22 FY 2022 -23
+CategoryTotal Waste 
+generated (A)Total Waste 
+disposed to 
+landfill (B)% of waste 
+disposed to 
+landfill
+(B/A)Total Waste 
+generated 
+(A)Total Waste 
+disposed to 
+landfill (B)% of waste 
+disposed to 
+landfill
+(B/A)
+Waste 
+Disposed to 
+Landfill184.21 28.82 15.65% 388.02 112.02 28.87%•We have conducted an impact assessment of the material issue of “Waste 
+Management” by monitoring the adverse impact of waste disposed to landfill that 
+causes potential health hazards to local communities, air and water pollution thus 
+endangering social and ecological ecosystem. This has been derived using an 
+Internal methodology.
+•We ensure that all waste generated from our operations including Hazardous and 
+Non-hazardous waste is reused, repurposed, or recycled through authorized 
+recyclers and vendors in a responsible manner.
+•We strive to reduce the waste disposal to landfill and we have a robust system of 
+segregation at the source which is collected and managed using the principles of 
+the circular economy.
+•We maintain plastic -free campuses and encourage all stakeholders to use eco -
+friendly and biodegradable materials spreading awareness on preventing single -use 
+plastic.
+•Organic waste converters (OWC) and vermicomposting plants at our campuses 
+convert food waste to manure which also cuts down logistics emissions and 
+reduces waste to landfill.
+During FY23, we recycled 22% of our food wastage (29 tons) to manure through 
+Organic Waste Converters and Vermicomposting units.
+•We have taken target to make 100% of our facilities Zero Waste to Landfill 
+certified by FY 2025 -26 as a part of our five -year ESG Roadmap FY22 -26.
+•3 of our locations are already Zero Waste to Landfill certified.Waste Management
+Output metric linked to waste management →% of waste disposed to landfill
+Impact metric to measure external impact →% of decrease in air quality and 
+associated health impacts
+28.87% of Waste Disposed to Landfills in FY 2022 -23
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+17
+ Copyright © 2023 Tech Mahindra. All Rights Reserved.ZWL Certificate -Bengaluru18
+ Copyright © 2023 Tech Mahindra. All Rights Reserved.ZWL Certificate -Hyderabad19
+ Copyright © 2023 Tech Mahindra. All Rights Reserved.ZWL Certificate -Chennai20Tech Mahindra recognizes that our suppliers are independent 
+entities; however, the business practices and actions of a supplier 
+may impact on or reflect upon Tech Mahindra
+Sustainability is deemed to make significant contribution to 
+company’s success, and suppliers plays a major role in this
+We bind all our suppliers to the following social, ethical and 
+environmental minimum standards of conduct and encourage each 
+supplier to adopt practices with preferred and favored standards
+We actively engage with our key suppliers for making our supply 
+chain sustainable
+Suppliers must share our commitment to best practice, continuous 
+improvement, and collaborative approaches, and commit to our 
+requirements as per the SSCM Supplier Code of Conduct 
+OUR SUSTAINABLE SUPPLY CHAIN MANAGEMENT POLICY 
+INCLUDES :
+Seek high standard performance from our key suppliers 
+through  SSCM questionnaire and Supply Chain Code of 
+Conduct
+Deliver social and environmental benefits for Tech 
+Mahindra, our suppliers and the broader community, by 
+encouraging practical and effective social, ethical and 
+environmental responsibility by our supplier
+Encourage our suppliers to make available cost -effective, 
+environmentally and socially responsible products and services
+Create other benefits for our company, such as reduced costs, 
+improved risk management, enhanced quality, and product or 
+service innovation
+SSCM Supplier Code of Conduct Sustainable Supply Chain Management Policy
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+21
+•We evaluate and review performance for supplier’s targets (both 
+quantitative and qualitative) taken on ESG aspects and their future.
+•We look ethical and human right practices and beyond compliance at their 
+connect with their employees, how they communicate, details of compliance 
+processes and polices, capacity building and awareness on green and 
+environment.
+•We evaluate our suppliers based on their transparency in reporting their 
+sustainability details publicly and their participation in indices like CDP 
+climate change and water security, CDP supply chain, DJSI, and more.
+•We prefer suppliers who
+▪Set environmental/ social targets
+▪Report publicly on these indicators
+▪Conduct independent audits against appropriate standards or 
+certification schemes
+•We ensure that all our suppliers are aligned to the minimum social, ethical 
+and environmental standards of conduct set out in the Supplier Code of 
+Conduct and encourage them to adopt our preferred and favored standards.
+•We encourage our Suppliers to track and reduce GHG emissions and 
+encourage Sustainability practices.
+•While reviewing we encourage vendors to use increasing amount of recycled 
+and recyclable content into making of new products to support progress 
+towards circular economy.
+•We have defined our tier one suppliers as the top suppliers who avail 92% of 
+our spend. The proportionate % of total suppliers assessed on Human rights 
+over the past 3 years is 92.72% and % of total suppliers assessed where 
+risks/gaps have been identified is 37.25%.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+22
+Good 
+PointsFocus 
+Areas
+•Code of conduct and 
+workplace management:
+▪Workplace management 
+policies
+▪Training/induction program 
+▪Written labor policy in place
+▪Written diversity/equal 
+opportunity for employment 
+policy
+▪Proactive in 
+learning/development for 
+employees
+•Occupational health and 
+safety:
+▪Written safety and health 
+policy
+▪Strictly following health and 
+safety checklist for employees
+▪Conducting safety related 
+training for employees
+•Environment management:
+▪Written environment policy•Tracking GHG emissions 
+(Scope 1+2) for operations
+•Reporting the emission on 
+global platform 
+•Establish the environmental 
+targets and objectives to 
+improve environment 
+performance
+•Set up sustainability target 
+and goal to minimize impact 
+on environment.
+•Should have a written BCP 
+policy
+Copyright © 2023 Tech Mahindra. All Rights Reserved.23•Customer Centricity Office implements organization -wide proactive and 
+reactive initiatives to understand the customer challenges and escalations 
+and works to align Tech Mahindra’s processes, policies, systems and 
+resources in sync with customers’ business processes and future direction to 
+deliver an enhanced customer experience.
+•The CCO office is headed by the Chief Customer Officer who reports directly 
+to the MD & CEO.
+•The CCO team interacts periodically with customers and partners along with 
+the delivery, sales, and support functions to facilitate improved ‘customer 
+first’ outcomes and drives end -to-end resolution of challenges, escalations, 
+or issues which may adversely impact the quality or level of service delivery.
+•The primary function of the customer centricity office is to track and 
+manage customer challenges and escalations across touchpoints and 
+identify and ensure that critical cases are expedited through appropriate 
+channels.
+•The CCO uses a four -level categorization mechanism to rate and channel 
+escalations (C1, C2, C3, C4). The first two levels (C1 & C2) are generally 
+resolved by the business unit under the monitoring of the CCO. In the event 
+of delays, the CCO proactively gets involved to aid the faster resolution. The 
+CCO tracks the high priority customer escalations (C3 & C4) till closure and 
+touches base with customers or account managers to assure them about the 
+quick resolution of escalation with specific action plans involving all service 
+delivery stakeholders. The key takeaway from each escalation in terms of 
+learning and the requisite adaptations are made systemically across all 
+accounts.
+•The CCO team tracks milestones and ensures the execution of the action 
+plan across program lifecycle:
+▪Acknowledgement –Acknowledge escalation and provide assurance and 
+timeline for resolution.
+▪Action Plan –Stakeholders from internal resolution team to create action 
+plan to address key issues.
+▪Approval –Customer evaluates, modifies and approves action plan to resolve 
+issue within timeline.
+▪Feedback and Closure –Action plan closure for positive input otherwise 
+seek new action plan.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+24Account Escalation Dashboard (AED): It is a predictive analytics tool that 
+enables stakeholders, most importantly rainmakers, to forecast any potential 
+escalated accounts and respective risk areas by taking inputs from sales, 
+delivery, quality, and contract management commercial (CMC) groups. The 
+AED provides a detailed overview and diagnostics, assists in reporting issues to 
+the senior management and helps in tracking critical issues until closure.
+Account Status Indicator (ASI): It is a user -friendly mobile app for Rainmakers 
+and CDMs to capture real -time red, amber, or green (RAG) status for their 
+designated accounts post their discussions with the customers and taking 
+delivery feedback from the customers. Each status has been codified to clearly 
+define the context and enable appropriate alignment of resources. ASI helps 
+rainmakers to generate a proactive alert to swiftly and effectively resolve 
+situations which may result in serious customer escalations at the topmost 
+level.
+Pro-alert Tool: It is a tool where all the concerned delivery stakeholders can 
+share details of the issues faced in their respective programs. The CCO team 
+assists them in expediting the resolution of the issue with critical issues being 
+immediately updated in the AED portal and tracked until closure. Alerts are 
+raised across various categories, including resourcing, contractual, and service 
+levels, with identified SPOCs to address any breaches.
+Customer Pulse Predictor: It is a new proactive tool which is developed and is 
+used to measure the health of every program from the delivery viewpoint to 
+integrate with the other inputs. The program managers provide a Red, Amber, 
+and Green status of their respective programs to enable early intervention by 
+the CCO.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+25•CSAT process is named as voice of customer (VOC) and is owned by 
+the CCO Office .
+•CSAT is used to measure customer satisfaction and understand the 
+extent to which the services delivered by Tech Mahindra meets/ 
+exceeds the customer expectations .
+•CSAT is carried out quarterly for Program CSAT to track the 
+performance of a program, identify problem areas and ensure that a 
+proactive problem resolution plan is created and followed through .
+•Survey is sent to the clients for ongoing active programs as well as for 
+programs approaching closure. In case of a low score, the VOC team 
+understands the customer challenges and resolves their concerns. The 
+survey feedback is analyzed to create a proactive action plan to have 
+an early -stage capture and resolution mechanism to prevent future 
+issues. The knowledge management approach is applied through our 
+predictive tool across other customers to continuously improve our 
+systems and processes. An in -house automated GDPR compliant tool 
+is used for the CSAT process .
+•The CSAT survey captures customer feedback around three key 
+aspects of customer satisfaction: service and delivery, teaming and 
+engagement and governance and management .
+•The CCO owns the deployment of the CSAT survey to identify areas of 
+improvement and follow up with the delivery team to implement action plan 
+with systems and processes to ensure seamless delivery and support to 
+address any challenges across the program lifecycle.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+26The CSAT survey process involves the following steps:
+1.Schedule survey –Theprogram managers, delivery heads, quality 
+team andother stakeholders informed about the survey schedule 
+with the expected timeline for every step.
+2.Collect data –Thedetails of the customers are collected for 
+triggering the survey in the CSAT tool and the survey questionnaire is 
+mapped based on the type of customer engagement and pricing 
+model of the contract -Fixed Price and time and material.
+3.Trigger survey –TheSurvey is triggered by the VOC team through 
+the CSAT tool after all the customer details are entered in the tool 
+and submitted to the VOC team by the SPOCs.
+4.Share survey feedback results –Thefeedbacks submitted by the 
+customer are shared with the pertinent stakeholders (business 
+development managers, program managers, and more) for their 
+respective programs.
+5.Survey analysis –The survey feedbacks areanalyzed and the insights 
+areshared with all the concerned stakeholders for taking 
+corrective actions.
+6.Track the action plan –The program managers and business 
+development managers areasked to prepare an action plan for 
+programs with overall feedback rating less than 4 or an attribute 
+rating less than 3 to address the customer concerns and this action 
+plan is tracked till closure by the VOC team.
+Total 
+Eligible 
+ProgramsTotal 
+Eligible 
+Programs 
+with 
+surveys 
+initiatedData 
+coverage 
+%Total 
+Programs 
+with 
+received 
+responsesResponse 
+Rate %CSAT 
+ScoreCSAT 
+Index
+1766 1728 98% 1317 76% 4.46 4.46Tech Mahindra has achieved a CSAT score of 4.46 against the target of 4.5and 
+CSAT index of 4.46 against the target of 4.0during FY 2022 -23
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+% of Repeat Business
+Particulars Q1 FY23 Q2 FY23 Q3 FY23 Q4 FY23 FY22 -23
+No. of Active Clients 
+(A)1262 1279 1290 1297 5128
+Repeat clients (B) 1237 1215 1200 1193 4845
+% of Repeat Business 
+(C = B/A)98% 95% 93% 92% 94%27SDG 
+prioritized 
+and 
+identifiedProject implemented and impacts of action
+SDG 1
+No Poverty 
+and SDG 2 
+Zero Hunger•AR/VR based training on sustainable agriculture practices.
+•Solutions include Panchang (weather prediction), Atmanirbhar Krishi 
+(low connectivity frien dly informa tion on crops, soil, and water), a 
+databank for sustainable pest management, and more.
+SDG 3
+Good Health 
+and Well -
+Being•Incorporated the ‘Wellness before Business’ mantra across the 
+organization, ensuring that our associates as well as our CSR 
+beneficiaries experience good health and well -being as a priority. 
+Taking care of our people and our communities is embedded in our 
+business philosophy and is integral to ESG Governance at TechM.
+•The Employee Health and Safety team implements our organization -
+wide, holistic Wealth of Wellness (WoW) programme . It leads a wide 
+range of health and wellness initiatives, which includes physical health, 
+occupational, psychological, spiritual, social, environmental, financial 
+and intellectual health.
+SDG 4
+Quality 
+Education•Run programmes like ARISE, ARISE+, Shikshaantar , mobile science labs 
+to help provide quality education to school -going children from 
+underprivileged and marginalized communities in the society.
+•During FY23, TMF’s education programmes have more than 19,000 
+beneficiaries.
+•Mahindra Educational Institutions (MEI) help enhance access to quality 
+higher education in high opportunity areas to drive education and 
+livelihood ambitions.
+SDG 5
+Gender 
+Equality•Dedicated policies to encourage and support women as well as 
+members of the LGBTQ+ communities through gender -agnostic POSH 
+policy and gender -neutral infrastructure.
+•Equally committed to fostering an inclusive work culture, with specific 
+steps taken to encourage persons with disabilities on our teams.
+SDG 6
+Clean Water 
+and 
+Sanitation•Partnered with Smart Energy Water (SEW) to accelerate digital 
+transformation for the energy/ water utility industry.
+•TMF provided capacity building for sanitation workers besides the 
+‘Flush the Virus’ programme for providing access to sanitized toilets.
+SDG 7 
+Affordable 
+and clean 
+energy•Have launched our new business vertical to provide ESG offerings. This 
+includes services such as ESG consulting, new -age technology -enabled 
+energy and resource optimization solutions, reporting platforms, audit, 
+reporting services and risk management platforms for accelerating 
+sustainability initiatives.
+SDG 8 
+Decent 
+Work and 
+Economic 
+Growth•Our contribution in this value creation process is through ensuring 
+business sustainability and futureproofing by means of helping our 
+associates with appropriate opportunities to upskill and grow in their 
+careers.
+•During FY23, our SMART and SMART+ programmes have benefited 
+more than 22,000 young lives.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+28SDG 
+prioritized 
+and identifiedProject implemented  and impacts of action
+SDG 9 
+Industry, 
+Innovation and 
+Infrastructure•Committed to using our expertise in technology as well as our 
+sustainability initiatives to help our clients enhance their impacts 
+under sustainability, and thus acting as a force multiplier for 
+sustainability across sectors, globally.
+SDG 10 
+Reduced 
+Inequalities•Focus on diversity and inclusion is reflected in our CSR policy and 
+our ESG Governance. We ensure that at least 50% of CSR 
+beneficiaries of TMF’s programmes under education, employability, 
+and disability are women and girls while 10% of our beneficiaries 
+are Persons with Disabilities.
+SDG 11 –
+Sustainable 
+Cities and 
+Communities•Continue to drive focused efforts to reduce our carbon footprint by 
+using more efficient equipment, minimizing our use of water and 
+electricity as well as reducing our waste generated by our 
+operations. We continue to enhance our initiatives to conserve 
+natural resources as well as biodiversity.
+SDG 13 
+Climate Action•Our climate strategy involves participating across various platforms 
+and initiatives dedicated to driving targeted action.
+•We are a signatory to the collective global businesses’ ambition of 
+1.5°C; committed to becoming carbon neutral by 2030 and net zero 
+by 2035; 1.5 °C Supply Chain Leaders by Exponential Roadmap 
+Initiative (ERI) and ‘The Climate Pledge’. Our 2 °C emission reduction 
+targets are approved by SBTi and we are one of the few companies 
+to implement an Internal Carbon Price (USD 13/MTCO2e in FY23).
+SDG 17
+Partnership 
+for the Goals•Worked in partnership with government agencies such as the NITI 
+Aayog and global organizations like UNGC, WEF, TERI, CDP, 
+Austrade, etc. to support public policy formulation for societal 
+welfare. We participate in various global summits and conferences 
+on climate action.
+•Maintained membership with Industry Associations including CII, 
+GSMA, Software Technology Parks of India and some local and 
+regional Industry Associations to share and disseminate knowledge 
+and best practices for creating technology -enabled solutions for 
+society.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+29Social
+•The average amount spent per FTE on 
+training and development of both IT 
+and BPS associates is USD 100.08, i.e., 
+INR 8083.
+•The human capital return on 
+investment for FY 2022 -23 is 1.22Environment
+•Carbon neutral by FY30 
+•Emission targets aligned with 1.5 °C 
+and SBTi approved 2 °C targets of 
+scope 1+2 emissions reduction by 
+22% by FY30 and 50% by FY50  
+•Increase renewable energy to 50% by 
+FY 2024 -25 and 90% by FY 2029 -30
+•Signatory to UNGC, The Climate 
+Pledge and Business Ambition of 
+1.5 °C
+The Code of Ethical Business Conduct is non -negotiable and in case of non -compliance, an 
+appropriate consequence management will be initiated, depending on the nature and 
+severity of the violations, and in accordance with company policies. The consequences 
+include withholding or denial of remuneration benefits/ 
+appraisals/promotions/raise/certifications/onsite opportunities. They may even face 
+disciplinary actions including termination based on the nature of violation and company’s 
+disciplinary investigation process.
+Long term incentives are given to associates who have been with the company for more 
+than 5 years. The benefits to the associates include certificate, congratulatory plaque, and 
+a cash award to celebrate their association with the company; additional leaves linked to 
+the number of years served; variable pay linked to individual performance measured 
+throughout the year; associate stock options (ESOPs)/ restricted stock units (RSUs) to 
+those qualifying under performance criteria along with a reward for their niche, critical and 
+long-term roles in the organization. The company has targets on material topics in the 
+sustainability roadmap. These targets are added to the balanced score cards of function 
+leaders and cascaded to their respective teams to ensure completion. The monitoring, 
+implementation and achievement of these targets are considered while stock options 
+(ESOPs/RSUs) are being given as a long -term incentive to associates.
+Membership of Associations: Tech Mahindra participates in and support public policy 
+formulation for societal welfare. We engage and collaborate with the government directly 
+as well as through industry associations and international multilateral bodies like the UNGC 
+and WEF.
+A total membership fee of INR 3.6 crore was paid to various industry and trade associations 
+that represent our interests at government levels and help address issues with 
+policymakers. We paid INR 91.25 lakh to Global System for Mobile Communications (GSM) 
+association, INR 49.99 lakh to National Association of Software and Service Companies 
+(NASSCOM), INR 22.49 lakh to World Economic Forum (WEF); INR 5 lakh to United Nations 
+Global Compact (UNGC); INR 6 lakh to Confederation of Indian Industry (CII) and INR 5.8 
+lakh to Associated Chambers of Commerce and Industry (ASSOCHAM) among others.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.30Performance Appraisal: Tech Mahindra has a mid -term as well as an annual 
+appraisal and follows a multidimensional performance appraisal process. All our 
+eligible associates are appraised through a Performance Indicator system which 
+integrates all the 3 types of performance appraisals, i.e.
+1.Management by objectives –The systematic use of measurable yearly 
+goals and targets agreed between the line manager and associates.
+2.Multi -dimensional 180 -degree feedback –Associates are appraised by 
+their managers and unit heads. Also, feedback is taken from the peers (not 
+mandatory), and sometimes from the external clients/customers.
+3.Formal comparative ranking –of employees within one employee 
+category.
+TechM’s performance andsuccession management process helps differentiate high -
+potential talent with a 3 -level performance rating scale, transparent career mobility 
+process and performance enabling conversations that focus on outcomes. We have a 
+multi -layer reporting structure for each associate and have processes of 180 -degree 
+feedback and associate satisfaction surveys. Our reverse feedback process ensures 
+that the appraisal process is a two -way process giving associates the ability to 
+assess their managers and share the feedback directly with their skip -level 
+managers. we also have a robust grievance redressal process in place where 
+associates can raise a complaint if they have been treated unfairly.
+Regular performance feedback discussions between managers and team provide an 
+opportunity to provide real -time guidance, recognize achievements, and address any 
+performance gaps. While performance feedback discussions between managers and 
+team members happen regularly, formal performance evaluation happens twice a 
+year, through the mid -term review and an annual performance review. the entire 
+performance management lifecycle is digitized through our individual development 
+enabling appraisal system ( Ide@s ) application which is used as a centralized system 
+for the execution, tracking and maintenance of the performance management 
+process .
+Copyright © 2023 Tech Mahindra. All Rights Reserved.Employee Development Programs: We support our associates to grow and 
+leverage the skills currency. Our employee development programs such as Tech 
+Mahindra's Women Leadership Program (WLP) had a participation rate of 5%and 
+AQT Framework (AQTF) program had a participation rate of 15% of FTEs in FY 
+2022 -23.
+Employee Benefits: We go above and beyond to ensure that each of our associates 
+feel safe and secure, cared for and well -supported in their work. 100% of our 
+permanent workforce enjoys Health Insurance , Accident Insurance , Maternity 
+Benefits (including Parental Leave for Primary Caregiver up to 26 weeks and for the 
+Non-Primary Caregiver up to 1 week), Paternity Benefits and Sabbatical Leave 
+benefits (other than Parental Leave) to cater to any Personal/Family* exigencies 
+along with Daycare/Childcare facilities, Breast -feeding/Lactation facilities etc. at the 
+office premises.
+* Family includes Parents, Spouse, Same -Sex Partners, Siblings, Parents -in-law, Children31From an environmental perspective, Tech Mahindra’s priorities are sourcing renewable 
+energy, becoming net -zero and water positive, and adopting circular economy 
+principles while protecting and promoting biodiversity. We promote awareness of the 
+need for environmental protection and encourage imbibing sustainability as a way of 
+life amongst our associates and all our other stakeholders. 
+We consciously make strategic investments in low -carbon technology and the 
+procurement of eco -friendly products. In addition, our green solutions portfolio 
+combines our technical expertise and technology to develop solutions that help 
+customers address their environmental and climate -impact -related challenges.
+Two of our locations are ISO 
+14001:2015 certified with 33.16% 
+coverageWe have taken combined target to 
+reduce 58.8% of our Scope 1+2 
+emissions by FY 2029 -30from 
+114,309 MTCO2e in base year FY 
+2015 -16. Thus, we need to reduce 
+proportionate % of Scope 1 emissions 
+to 10,122.15 MTCO2e and Scope 2 
+emissions to 70,580.01 MTCO2e in FY 
+2022 -23
+We have taken a target to reduce 2% 
+our scope 3 emissions by FY 2025 -26 
+against the base year FY 2015 -16. 
+Thus, we need to reduce to 46,566 
+MTCO2e in FY 2022 -23.We have taken target to increase our 
+Renewable energy to 50% and reduce 
+Non-renewable energy consumption 
+to 50% by FY 2024 -25 from 152, 
+860 MWh in base year FY 2015 -16. 
+Thus, we need to reduce NRE 
+consumption to 93,414.44 MWh in FY 
+2022 -23
+We have taken target to decrease our 
+water withdrawal from 0.88 million 
+cubic meters by 20% to 0.70 million 
+cubic meters. Thus, we need to reduce 
+to 0.76 million cubic meters in FY 
+2022 -23.Our Average PUE is 1.96 and RE share 
+of our data center is 33% for FY 
+2022 -23. We have taken target to 
+reduce our power usage efficiency by 
+2% from FY21 and increase RE share 
+to 50% by FY 2024 -25. Thus, the 
+target for PUE is 1.97 and RE share of 
+data center is 33% for FY 2022 -23.
+We have taken target to have 100% 
+of our 13 owned locations certified for 
+ZWL by FY 2025 -26. Our target for 
+waste disposal is 115.28 metric 
+tonnes for FY 2022 -23.Through Renewable Energy, LEDs and 
+motion sensors installation and Green 
+building practices implementation, we 
+have saved 28,978.70 MTCO2e of 
+GHG emissions . Virtualized 16,838 
+servers (both internal and external) 
+saved 79,930 MTCO2e.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+32
+ Copyright © 2023 Tech Mahindra. All Rights Reserved.
+33
+ Copyright © 2023 Tech Mahindra. All Rights Reserved.
+The Stakeholders Relationship 
+Committee of the Board reviews and 
+has an oversight towards meeting 
+environment, health and safety 
+obligations towards all stakeholders as 
+specified in their Terms of Reference 
+(ToR). Hence, it is also responsible for 
+the implementation of OHS Policy .34Assessing Impacts
+Identifying and Assessing Impacts 
+to gauge the nature and extent of 
+human rights risks
+Integrating and Taking 
+Actions
+Acting to prevent and mitigate 
+risks to people, including  via  
+integration  within  internal 
+functions and processesCommunicating
+Appropriate communication of
+performance withrespect to
+addressing human rights impacts
+Tracking Performance
+Tracking of effectiveness of risk 
+mitigation responses over time; 
+and
+Gathering 
+Relevant 
+InformationConsulting
+StakeholdersPerforming 
+Corporate 
+Business Impact 
+AssessmentsMapping Human 
+Rights Risks And 
+Prioritizing 
+ActionI. Identifying and Assessing the Impacts
+II. The Integration Process
+In order to prevent and mitigate adverse human rights impacts, we integrate the findings from their 
+impact assessments across relevant internal functions and processes and take appropriate action.
+III. Tracking performance and reporting
+Type of system used to track performance
+Companies can choose whatever performance tracking system suits them 
+best. The tracking performance system can be based on models already 
+being used in the field of health and safety or environmental performance 
+and the human rights process can be integrated into existing systems. It 
+helps to promote standardization of the process. However, it is necessary 
+to always take into account the specific human rights features. 
+Gathering existing data 
+The systems used within the 
+company can be an initial source of 
+relevant data on how well 
+processes are working: reports on 
+grievance mechanisms, audits, 
+employee surveys/ polls, country 
+reports, performance survey, etc. A 
+grievance mechanism within the 
+company will allow stakeholders to 
+say whether in their opinion, 
+responses given were effective and 
+appropriate.Choosing indicators to track 
+performance
+For each human rights issue, it 
+should be determined whether or 
+not well -known and established 
+indicators already exist for certain 
+issues, which data could be 
+gathered from within the company 
+and whether the opinion of 
+stakeholders should be sought 
+directly.
+The company’s risk management & HR Compliance department is involved 
+so as to integrate the “respect for human rights” criteria in all   risk 
+management processes across the company. In support of this initiative, 
+experts in human rights  also make it possible to identify and assess 
+specific risks in an appropriate way.GRI 
+DisclosureIssue
+GRI 401 Employment
+GRI 402Labor Management 
+Relations
+GRI 403Occupational Health and 
+Safety
+GRI 404 Training and Education
+GRI 405Diversity and Equal 
+Opportunity
+GRI 406 Non-Discrimination
+GRI 407Freedom of Association 
+and Collective 
+Bargaining
+GRI 408 Child Labor
+GRI 409 Forced or Compulsory 
+Labor
+GRI 410 Security Practices
+GRI 411Rights of Indigenous 
+Peoples
+GRI 412Human Rights 
+Assessment
+GRI 413 Local Communities
+GRI 414Supplier Social 
+Assessment
+GRI 415 Public Policy
+GRI 416 Customer Privacy
+GRI 419Socio Economic 
+ComplianceHuman Rights Performance 
+Indicators (GRI)
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+35SynthesesIV. Communicating and Reporting
+•We ensure, communicating externally/Internally to address our Human Right impacts particularly to 
+stakeholders affected by their businesses.
+•Transparent communications include exchanges with stakeholders, establishing mechanisms to interact 
+with the company (information, hot line, remedy mechanisms, etc.).
+•The more transparent a company is, the better the action it takes and the efforts it makes to respect 
+human rights will be perceived and the more dialogue with stakeholders will be worthwhile.
+A Human Rights Risk Mapping Matrix And Action To Be Taken
+EqualityFreedom from 
+DiscriminationFreedom of 
+AssociationRight to Privacy Freedom of Training
+Scope : Organization Source: Organization Source: Organization Source: Organization Source: Organization
+Stakeholder: D&I HeadStakeholder: Ombudsman 
+officerStakeholder: BHR Head Stakeholder: DPO Stakeholder: L&D Head
+Impact : 
+equality are developing 
+positive values and 
+morals in society, just 
+and fair environment 
+and people understand 
+importance of equality in 
+workplace, general life, 
+competition, and gender -
+based situation.Impact :
+Effects are not limited to 
+physical but also mental 
+effects on the employee 
+include depression, 
+developing anxiety 
+disorders, loss of self 
+control leading to the 
+employee becoming 
+hostile. Perceived 
+discrimination has effects 
+on both the employee 
+and the work 
+environment.Impact :
+Enable associates to 
+join together to protect 
+better not only their 
+own economic interests 
+but also their civil 
+freedoms such as the 
+right to life, to security, 
+to integrity, and to 
+personal and collective 
+freedom. Impact : 
+Data privacy and 
+security can put the 
+company’s, employee’s 
+and customers’ data at 
+risk. Inadequate 
+prevention, detection, 
+and remediation of data 
+security threats can 
+influence customer 
+acquisition and 
+retention. Data 
+disclosure or movement 
+or copying without
+approval or 
+Authorization. Impact : 
+It's a way to close skills 
+gaps and make 
+employees more 
+competent in their 
+current and future roles. 
+Benefits the employees 
+to perform their tasks 
+better and a company 
+can easily accomplish 
+their objectives.
+Action :
+• D&I and human 
+rights policy
+• Remuneration and 
+salaries are paid 
+and isn’t biased on 
+equal salary ratio 
+(for both).
+• Representation of 
+women: 31.75%
+• Mandate 50% 
+women hiring from 
+campus
+• Creating 
+opportunities for 
+people with 
+disabilities through 
+SMART.
+• Mandate e -learning 
+training followed 
+by an assessment 
+once in every two 
+years.Action : 
+•Policy on bullying and 
+harassment at 
+workplace anti -
+discrimination, POSH 
+and CEBC are in place.
+•Grievance mechanism 
+under whistle blower 
+policy.
+•Training and 
+awareness sessions Action :
+Have associate groups 
+representing diverse 
+backgrounds, affinities 
+and skills facilitate 
+community 
+participation, 
+networking, cultural 
+enrichment and 
+support, based on 
+gender, affinity, ability 
+and sexual orientation.Action :
+•Privacy, data privacy 
+and protection policy 
+are in place.
+•Associates have the 
+right to ask for copy 
+of personal data; to 
+correct, delete or 
+restrict/ object 
+processing of 
+personal data. 
+•Data 
+transfer/processor 
+agreement in place 
+with customers.Action :
+Emphasizes associate 
+engagement, 
+satisfaction, re -skilling 
+and wellness to ensure 
+talent retention and 
+attrition reduction 
+through progressive 
+policies, career 
+development plans, tie -
+ups with colleges and 
+30+ online education 
+partners; future skilling 
+Initiative and bench -
+reskilling.
+Right To  EqualityFreedom From 
+DiscriminationFreedom Of 
+AssociationRight To 
+PrivacyFreedom Of 
+Training
+Operations
+Supply Chains
+Customer Centricity
+Human Resources
+Research & Development
+Finance
+Copyright © 2023 Tech Mahindra. All Rights Reserved.36Labour
+Management 
+RelationsComment :
+Appointment letters to security 
+guards did not have salary 
+details. It was blank and signed 
+by the security guards.
+Shift change mechanism was 
+not evidenced for security 
+guards.Response :
+Advised the third -party vendor 
+agency to ensure that the 
+appointment letters should have 
+the salary details along with 
+necessary terms and conditions 
+accepted and counter signed by 
+the worker.
+Initiated shift change mechanism as 
+a best practices at every site level.
+Health &
+SafetyComment :
+H&S and works committees 
+were not established at site 
+level.
+The process of periodically 
+testing and exercising the 
+planned response capability is 
+not effective. i.e., fire drill in 
+night shift is not done.Response :
+Provision to form HSE committees 
+with the H&S trained SPOCs from 
+location council at every site level.
+Ensure fire drill covers all the shifts.
+Human 
+Rights 
+AssessmentComment :
+No social risk assessment 
+evident.Response :
+Initiated social risk assessment 
+procedures by including the 
+necessary human rights clauses 
+for the sites .
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+Due Diligence
+Before commencing business activities, we assess human rights issues and impacts on 
+company operations and include key stakeholders such as employees, women, children, third 
+party employees, local communities, and indigenous people in our human rights due diligence 
+process. As a global organization, we assess risks related to human rights along the corporate 
+operations and value chain, including new business relationships such as mergers, acquisitions, 
+and joint ventures. We analyze certain risks and perform due diligence on certain potentially 
+material aspects related to human rights such as forced and child labor, human trafficking, 
+freedom of association and collective bargaining, equal remuneration, discrimination, and 
+privacy.37
+ Copyright © 2023 Tech Mahindra. All Rights Reserved.Human Rights Assessment
+Certificate -Noida38
+ Copyright © 2023 Tech Mahindra. All Rights Reserved.Human Rights Assessment
+Certificate -Chandigarh39
+ Copyright © 2023 Tech Mahindra. All Rights Reserved.Human Rights Assessment
+Certificate -Hyderabad40Independent Directors on Board
+The company has a robust governance structure for ESG with the right balance of 
+diversity, skills, and years of experience. Diversity of gender (with a ratio of 6:4), age (two 
+directors below 50), tenure (average tenure of 7.8 years) and nationality (30% other 
+nationalities on the current Board provides a wide variety of perspectives and knowledge 
+that guides Tech Mahindra’s current and future strategic direction.
+Tech Mahindra has 6 Independent directors on board which is compliant with the section 
+149 (4) of the Companies Act, 2013 and Regulation 17 (1) (b) of the SEBI regulations, 
+2015. So, considering the above criterion for independent directors on board, we abide by 
+the norms and have minimum/target share of at least 33.33% (or one -third ) of 
+independent directors on board.
+Board Meeting Attendance
+In compliance with the Section 167 (1) (b) of the Companies Act, 2013, TechM has a 
+minimum attendance of at least one meeting for its Board members. TechM abides 
+by the norms and had a target of minimum attendance of 20% for Board members 
+(based on the total number of 5 board meetings held for FY 2022 -23).
+Election and Re-election of Directors on Board
+At Tech Mahindra, we follow the election & re-election guidelines according to the 
+Section 152 (6) of the Companies Act, 2013 wherein 33.33% of directors (other than 
+independent) on board are liable to be elected or re -elected during Annual General 
+Meeting (AGM). Also, during AGM, as per SEBI Regulation 4 (2) (a) (v & vii), we allow 
+every shareholder to be an effective stakeholder in exercising their right of election 
+of members of the Board. Section 149 (13) of the Act also states that the above 
+provisions shall not be applicable to the appointment of independent directors.
+Also, during AGM, as per SEBI Regulation 4 (2) (a) (v & vii), we allow every shareholder 
+to be an effective stakeholder in exercising their right of election of members of the 
+Board.
+Board Diversity Policy
+Tech Mahindra believes that the company’s board should consist of candidates from 
+diverse backgrounds and have a balanced composition of independent and non -
+independent directors meeting the criteria of independence set out in Companies Act, 
+2013 and SEBI Regulations, 2015. The Nominations and Remuneration Committee 
+has defined the standards of Board Diversity policy and ensures the Board nomination 
+process is in line with the diversity policy that considers the diversity of thought, 
+perspective, knowledge, skills, expertise, qualifications, regional and industry 
+experience, cultural background, age, ethnicity, nationality, race, and gender, to 
+achieve its strategic and commercial objectives. The policy on Board diversity is 
+available at https://insights.techmahindra.com/investors/policy -of-board -diversity.pdf
+Other Mandates
+Section 165 (1) of the Companies Act, 2013 states on the number of directorships: 
+No person, shall hold office as a director, including any alternate directorship, in more 
+than twenty companies at the same time, provided that the maximum number of 
+public companies in which a person can be appointed as a director shall not exceed 
+ten.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+41 Copyright © 2023 Tech Mahindra. All Rights Reserved.Tech Mahindra has complied with the following criteria for the independence 
+of Board of Directors for FY 2022 -23:
+1.The director must not have been employed by the company in an executive 
+capacity within the last year.
+2.The director must not be a “family member of an individual who is employed by 
+the company or by any parent or subsidiary of the company as an executive 
+officer”.
+3.The director must not be affiliated with a significant customer or supplier of the 
+company.
+4.The director must have no personal services contract(s) with the company or be a 
+member of the company’s senior management.
+5.The director must not be affiliated with a not -for-profit entity that receives 
+significant contributions from the company.
+6.The director must not have been a partner or employee of the company’s outside 
+auditor during the past year.
+7.The director must not have any other conflict of interest that the board itself 
+determines to not be considered independent.Compliance Statement for the Independence 
+of the Board of Directors42CEO Compensation
+Tech Mahindra’s governance practices are aligned with a focus on being a purpose -led, 
+people -centric and performance -driven organization. Our strong governance 
+framework led by robust policies & standards ensures that there is no conflict of 
+interest amongst any stakeholders associated with the organization. 
+At TechM, CEO compensation is viewed as an important factor that can have an 
+impact on the performance of our organization.
+The remuneration of the MD & CEO of Tech Mahindra includes fixed salary and 
+variable compensation as commission as determined by the Nomination and 
+Remuneration Committee (NRC) based on the achievement of various parameters set 
+out in the agreed annual goals. 
+Tech Mahindra follows a Balanced Score Card (BSC) approach to align the objectives 
+at the organization level, function level and the individual level and monitor the 
+company’s performance against these strategic goals. The BSC that is prepared for 
+the CEO includes Return on Capital Employed (ROCE) as a Financial Returns Metric 
+for determining their variable compensation. The NRC of Board determines the 
+variable compensation of the CEO, annually based on their individual and organization 
+performance.
+The ROCE of Tech Mahindra for the reporting year (FY 2022 -23) was 23.40% with a 
+commission (variable compensation) of INR 24.72 million paid to the MD & CEO of 
+Tech Mahindra.
+Total Shareholder Return -TSR (FY 2022 -23)
+Particulars TechM Nifty IT
+Total Dividend (YTD) INR         50.00 INR         47.00 
+Share Price* as on April 1, 
+2022INR   1,487.10 INR   3,551.40 
+Share Price* as on March 
+31, 2023INR   1,101.85 INR   2,500.83 
+TSR -23% -28%
+Tech Mahindra’s also the incorporates the use of relative financial metrics such as 
+total shareholder return (TSR) to gauge its performance against peers in the 
+industry. TSR provides insights on the overall appreciation in the stock price of every 
+share of TechM over a specified period of time along with the dividends paid by the 
+company on every share.
+Driven by the strong performance, the Board of Tech Mahindra recommended a 
+dividend of INR 50 per share in FY 2022 -23. The Company has formulated a 
+dividend policy which is disclosed on the website of the Company.
+The Total Shareholder Return (TSR) of Tech Mahindra for the reporting year (FY 
+2022 -23)was -23% which is relatively better than its peers listed on the Nifty IT 
+Index, i.e., -28% consisting of 10 Indian IT companies listed on NSE (National Stock 
+Exchange).*NSE closing price on respective dates for FY 2022 -23
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+43Management Ownership
+At TechM, we realize that our current and future investors and shareholders 
+are a part of the extended Tech Mahindra family. We provide accurate, 
+detailed, timely and transparent information to them on the financial, and ESG 
+performance and the future orientation of the organization.
+We firmly believe that the share ownership by the MD & CEO of TechM along 
+with other executive committee members (including key managerial personnel 
+–KMPs) of the organization can have a profound impact on the financial 
+performance of the organization and hence, increased investor and 
+shareholder returns. 
+Therefore, we encourage them to accumulate some share ownership of the 
+organization as compared to their base salary.
+Mr. C. P. Gurnani (MD & CEO)
+The share ownership* of the MD & CEO of Tech Mahindra during the reporting 
+year was 305.59 times their base salary. 
+Other Executive committee members 
+The share ownership* of the other 2 executive committee members:
+•Rohit Anand (CFO) –0.68 times their base salary
+•Anil Khatri (Company Secretary) –2.09 times their base salary
+Additionally, the total share ownership of these members is 1.14 times their 
+base salary.*calculated on the basis of no. of stocks held as on 31stMarch 2023
+The share ownership of MD & CEO and other executive committee members 
+(including KMPs) of TechM is built up gradually over a period of time. Tech 
+Mahindra has a robust compensation & remuneration structure wherein the 
+CEO, executives and KMPs are granted ESOPs based on their performance and 
+the quantum of their base salary. As compared to peers, this approach ensures 
+that these personnel build up a substantial amount of share ownership of 
+TechM over time and hence, leads to a positive correlation with the financial 
+performance of the organization.
+The ratio ofremuneration oftheCEO and MD(considering only thebase
+salary, commission andexcluding thevalue ofperquisite ofINR 0.63Mn)to
+median remuneration ofemployees (INR 0.662 Mn)is78.75CEO-to-Employee Pay Ratio
+Clawback
+Our company is governed by the Companies Act 2013 and clauses such as 
+Section 199 are applicable for the recovery of remuneration from the 
+management in certain cases of clawback . Please refer to Section 199 -
+“Recovery of remuneration in certain cases” on pdf page 125 of the Companies 
+Act 2013 for more details on the clawback policy applicable to the MD & CEO 
+of TechM
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+44Taxonomy
+Board Competence on SustainabilityTech Mahindra is committed to responsible, sustainable practices and our ESG 
+reporting is based GRI 2021 Standards, IIRC, TCFD, SASB and mandatory BRSR 
+(SEBI) frameworks but we are also constantly trying to align ourselves with the 
+latest of taxonomies.
+While we are awaiting final draft of taxonomy regulation within the framework 
+of sustainable financial architecture from Indian authorities, we have voluntarily 
+started writing a taxonomy report following EU taxonomy guidelines.
+We are developing this report that would meet the EU's standards for 
+sustainable finance for year 2023, to be reported in the year 2024. We are 
+committed to providing clear and comparable information on our 
+environmentally sustainable activities and investments.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+45Which Risks Strategic, Business, Operational, Climate Change Risks
+Who 
+ManagesEnterprise risk management team (Risk officers and Heads of 
+Business Units) headed by CRO and risk management 
+committee
+How 
+ManagesApproach: Bottom -up approach
+Through: Risk register
+Internal Process: Critical risks prioritized reviewed with 
+feedback and guidance form senior leaders assessment 
+report is updated. Mitigation strategies and business 
+contingency plans developed monitored by: Corporate 
+Auditing team
+Chief Risk Officer and the Chief Sustainability Officer are 
+engaged through a structured process to deliberate on 
+possible risks and opportunities from technology -economic -
+media -political -legal-environmental -social perspective
+Indoor Air Quality
+Employees Health 
+Risk
+Carbon Tax
+Fuel and Energy Tax
+Regulatory Change/ 
+Visa Risk
+Global Economic 
+RiskCurrency Risk
+Occupational Health 
+and Safety
+Natural Disaster
+Climate Risk in Supply 
+Chain
+Water Quality and 
+Security Risk
+Competition RiskPrivacy Risk
+ Climate Action 
+Failure Risk
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+46
+ Copyright © 2023 Tech Mahindra. All Rights Reserved.Tech Mahindra conducts assessment and evaluation of the Risk Management process 
+framework in order to incorporate and implement continuous improvements in our Risk 
+Management systems.
+Such assessment and audits help us obtain an understanding of the systems, processes
+and controls for identification and management of key enterprise risks for the 
+organization.
+We conduct, both, Internal as well as external audits for evaluating and monitoring the 
+risk management performance of TechM on a periodic basis.
+Internal Audit
+The audit committee of the Board of Tech Mahindra is responsible for evaluation of 
+internal financial controls and risk management systems as laid down in the terms of 
+reference ( ToR) of the committee. It meets the criteria laid down under Section 177 of 
+the Companies Act, 2013.
+At the Executive level, the internal audit function, headed by the Chief Internal Auditor, 
+monitors, audits and conducts half -yearly audit reviews of all relevant internal processes, 
+systems, and controls as mandated by the Companies Act, 2013.
+External Audit
+One of the "Big Four" accounting firms have been appointed by Tech Mahindra Ltd. for 
+conducting audits of the internal risk management processes (including, risk 
+management performances). They work closely with the Chief Internal Auditor andthe 
+team of Internal audit function to review and provide feedback on the risks and risk 
+management processes and report the audit findings to the Audit committee of the 
+Board on a quarterly basis.
+The Chief Internal Auditor and the appointed external advisor (one of the "Big Four" 
+accounting firms) for the audit function, also report their audit findings to the risk 
+management committee (RMC) of the Board on a quarterly basis. The Managing Director 
+& CEO, Chief Financial Officer (CFO) and Chief Risk Officer (CRO) are the permanent 
+invitees to the meetings of the Committee.
+Further, Tech Mahindra hires an external agency to review internal financial controls 
+(IFC) every 6 months. The Scope of assessment includes entity level controls (ELC) with 
+various controls encompassing the Risk Management processes.
+Example –In FY 2022 -23, one of the significant risks identified was stakeholders not following the 
+mandatory TechM code of conduct policies or following incorrect processes, which could lead to 
+improper recruitment practices and vendor empanelment, unethical transfers and promotions, and 
+allowances based on bribes (monetary or otherwise) between internal and external stakeholders.Risk Management Audits
+Potential Sources
+of Feedback:
+▪Reporting mechanisms
+▪Investigations
+▪Data mining
+▪Other stakeholders or external parties
+▪Enterprise -wide risk management initiativesPotential Receivers
+of Feedback:
+▪Risk Management trainings
+▪System checks
+▪Predictive Analytics models
+▪Risk assessmentsRisk Feedback Mechanism47Artificial Intelligence
+As the world witnesses unprecedented growth in artificial intelligence (AI) 
+technologies, it is essential to consider the potential risks and challenges 
+associated with their widespread adoption. AI does present some significant 
+risks —from job displacement to security and privacy concerns —and 
+encouraging awareness of these issues can help us in engaging actions 
+towards AI's legal, ethical, and societal implications.
+Whether it’s the increasing automation of certain jobs, gender and racially 
+biased algorithms or lack of transparency, data privacy and security, unease 
+about AI adoption abounds on a number of fronts. Additionally, we’re still in 
+the very early stages of understanding what AI is really capable of and the 
+impact it can have on our society.
+Description Impact Mitigating actions
+Lack of Transparency
+AI and deep learning models can be 
+difficult to understand, even for 
+those that work directly with the 
+technology. This leads to a lack of 
+transparency for how and why AI 
+comes to its conclusions, creating a 
+lack of explanation for what data AI 
+algorithms use, or why they may 
+make biased or unsafe decisions. 
+These concerns have given rise to 
+the use of explainable AI, but there’s 
+still a long way before transparent 
+AI systems become a common 
+practice.
+Further, lack of transparency in AI 
+systems, particularly in deep 
+learning models that can be 
+complex and difficult to interpret, is 
+a pressing issue. This opaqueness 
+obscures the decision -making 
+processes and underlying logic of 
+these technologies.When people can’t 
+comprehend how an AI 
+system arrives at its 
+conclusions, it can lead 
+to distrust and 
+resistance to adopting 
+these technologies.Standard practices 
+and model 
+documentation –
+Data science, legal, 
+and risk personnel 
+must understand 
+important aspects 
+of AI models and 
+the environment in 
+which they are 
+trained and 
+deployed, so they 
+can surface areas of 
+risk. Simply put, 
+organizations 
+cannot control an AI 
+environment they 
+don’t understand. 
+Setting clear 
+standards for model 
+development and 
+documentation can 
+help provide such 
+foundational 
+transparency.
+Lack of 
+Transparency
+Job 
+Displacement
+Lack of Data 
+Privacy and 
+SecurityAlgorithmic 
+Bias
+Social and 
+Economic 
+Inequalities
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+48Description Impact Mitigation
+Job Displacement
+AI-driven job automation is a 
+pressing concern as the 
+technology is adopted in various 
+industries. It has the potential to 
+lead to job losses and as AI 
+technologies continue to 
+develop and become more 
+efficient, the workforce must 
+adapt & acquire new skills to 
+remain relevant in the changing 
+landscape. While AI is estimated 
+to create 97 million new jobs by 
+2025, many employees won’t 
+have the skills needed for these 
+technical roles and could get left 
+behind if companies don’t upskill 
+their workforces. Moreover, it 
+has the potential to create 
+significant job losses in millions 
+by 2030.As AI technologies 
+become smarter and 
+more dexterous, the 
+same tasks will require 
+fewer humans leading 
+to losses in full -time 
+jobs.Investments in new -
+age technological 
+skills, including 
+carefully curated 
+training programs for 
+upskilling the existing 
+workforce. 
+Additionally, focus on 
+man-machine 
+collaborations towards 
+enhanced outputs, as 
+well as being cognizant 
+of the evolving needs 
+of employees’ 
+upskilling, learning and 
+development needs 
+can help enhance the 
+future -readiness of our 
+workforce.
+Towards this, we have 
+also built elaborate 
+platforms to help our 
+associates constantly 
+upskill themselves.
+Lack of Data Privacy and 
+Security
+AI technologies often collect and 
+analyze large amounts of 
+personal data, raising issues 
+related to data privacy and 
+security. 
+As AI technologies become 
+increasingly sophisticated, the 
+security risks associated with 
+their use and the potential for 
+misuse also increase. Hackers 
+and malicious actors can harness 
+the power of AI to develop more 
+advanced cyberattacks, bypass 
+security measures, and exploit 
+vulnerabilities in systems.
+AI systems often collect 
+personal data to customize user 
+experiences or to help train the 
+AI models. While there are laws 
+present to protect personal 
+information in some cases, there 
+are no explicit federal laws that 
+protects citizens from data 
+privacy harm experienced by AI.Generative AI tools may 
+possibly share user 
+information with third 
+parties, such as vendors 
+or service providers, 
+without prior notice. 
+This has the potential 
+to violate privacy laws 
+in many jurisdictions.To mitigate data 
+privacy and security 
+risks, we must 
+advocate for strict 
+data protection 
+regulations and safe 
+data handling 
+practices. Further, 
+governments and 
+organizations need to 
+develop best practices 
+for secure AI 
+development and 
+deployment and foster 
+international 
+cooperation to 
+establish global norms 
+and regulations that 
+protect against AI 
+security threats. For 
+example, AI regulations 
+have already been 
+implemented in China 
+and the EU, with 
+proposed regulations 
+emerging in USA, 
+Canada, India and UK 
+among others.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+49Description Impact Mitigation
+Algorithmic Bias
+AI systems can inadvertently 
+perpetuate or amplify societal 
+biases due to biased training 
+data or algorithmic design. 
+Various forms of AI bias are 
+detrimental too. In addition to 
+data and algorithmic bias (the 
+latter of which can “amplify” the 
+former), AI is developed by 
+humans —and humans are 
+inherently biased.Human workers, of 
+course, have biases and 
+make mistakes, but the 
+consequences of their 
+errors are limited to the 
+volume of work they do 
+before the errors are 
+caught --which is often 
+not very much. 
+However, the 
+consequences of biases 
+or hidden errors in 
+operational AI systems 
+can be exponentially 
+larger. As experts quote 
+–
+“Humans might make 
+dozens of mistakes in a 
+day, but a bot handling 
+millions of transactions 
+a day magnifies by 
+millions any single 
+error.”To minimize 
+discrimination and 
+ensure fairness, it is 
+crucial to invest in the 
+development of 
+unbiased algorithms 
+and diverse training 
+data sets.
+Social and Economic 
+Inequalities
+AI has the potential to 
+contribute to social and 
+economic inequalities by 
+disproportionally benefiting 
+some individuals and 
+corporations. For instance, the 
+concentration of AI development 
+and ownership within a small 
+number of large corporations 
+and governments can 
+exacerbate this inequality as 
+they accumulate wealth and 
+power while smaller businesses 
+struggle to compete.
+Further, widening socioeconomic 
+inequality sparked by AI -driven 
+job loss is another cause for 
+concern, revealing the class 
+biases of how AI is applied. For 
+instance, blue -collar workers 
+who perform more manual, 
+repetitive tasks have 
+experienced wage declines as 
+high as 70% because of 
+automation. Meanwhile, white -
+collar workers have remained 
+largely untouched, with some 
+even enjoying higher wages.As discussed above, job 
+losses due to AI -driven 
+automation are more 
+likely to affect low -
+skilled workers, leading 
+to a growing income 
+gap and reduced 
+opportunities for social 
+mobility.Policies and initiatives 
+that promote 
+economic equity —like 
+reskilling programs, 
+social safety nets, and 
+inclusive AI 
+development that 
+ensures a more 
+balanced distribution 
+of opportunities —can 
+help combat social & 
+economic inequalities.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+50Managing AI Risks
+The artificial intelligence (AI) landscape has changed dramatically over the past year 
+with the swift adoption of generative AI ( GenAI ), making it more difficult for 
+organizations to be responsible with the technology and putting pressure on 
+Responsible AI programs to keep up with continuous advances. 
+To respond to the shifts of this magnitude, requires us to stay ahead of the digital 
+transformation curve.  At TechM, our strategy of NXT.NOWTM drives us towards 
+embracing such disruptive technologies that are emerging at an accelerated pace. 
+Our strategy of NXT.NOWTMis helping us drive strategic focus towards adopting 
+increasingly intelligent technologies and staying at our core, a cognitive enterprise.
+In line with our organization -wide philosophy of RISE, we’ve developed a systematic 
+approach to identify AI risks in each business context.
+Privacy Security FairnessTransparency 
+and 
+ExplainabilitySafety and 
+PerformanceThird -party 
+risks
+DataModel Selection & 
+TrainingDeployment & 
+InfrastructureContracts & 
+InsuranceLegal & 
+RegulatoryOrganization 
+& CultureAI risk assessment framework
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+51Geoeconomic Confrontation and Fragmentation
+Conflicts and geo -economic tensions have created a domino effect of 
+interconnected global risks including energy and supply chain crunches. This 
+flags some immediate concerns such as cost -of-living crisis, debt and rapid or 
+sustained inflation.
+It comes amidst a global backdrop of energy supply crises and price shocks, 
+supply -driven inflation, threats to food availability and growing cyberattacks 
+on critical infrastructure. At the same time, these crises andrisks are 
+undermining global efforts to tackle other long -term risks, notably those 
+related to climate change, biodiversity and investments in human capital.
+Description Impact Mitigation
+As policymakers and business 
+leaders head to Davos, the global 
+economy faces perhaps its biggest 
+test since the Second World War.
+Over the past three decades, flows 
+of capital, goods, services, and 
+people have transformed our world, 
+helped by the spread of new 
+technologies and ideas. These forces 
+of integration have boosted 
+productivity and living standards, 
+tripling the size of the global 
+economy and lifting 1.3 billion 
+people out of extreme poverty. But 
+the successes of such integrations 
+have also brought complacency. 
+Inequalities of income, wealth, and 
+opportunities have continued to 
+worsen within too many countries 
+for a long time —and across 
+countries in recent years.
+Tensions over trade, technology 
+standards, and security have been 
+growing for many years, 
+undermining growth —and trust in 
+the current global economic system. 
+For instance, uncertainties around 
+trade policies alone reduced global 
+gross domestic product by nearly 
+1% in 2019, according to IMF 
+research. Additionally, since the war 
+in Ukraine started, around 30 
+countries have restricted trade in 
+food, energy, and other key 
+commodities.The costs of further 
+disintegration could be 
+enormous across 
+countries and people 
+at every income level 
+could be hurt —from 
+highly -paid 
+professionals and 
+middle -income 
+employees, to low -paid 
+workers. 
+Further, the impacts of 
+reconfigured supply 
+chains can create 
+disruptions and lead to 
+higher barriers to 
+investments. They 
+could also make it 
+more difficult for 
+companies in 
+developing nations to 
+sell their products & 
+services, co -innovate 
+and stoke inflation. For 
+instance, IMF research 
+estimates that 
+technological 
+fragmentation alone 
+can lead to losses of 
+5% of GDP for many 
+countries.To restore trust 
+that the rules -based 
+global system can 
+work well for all 
+countries, we must 
+weave our economic 
+fabric in new and 
+better ways. If we 
+can start by 
+focusing on urgent 
+issues where 
+progress will clearly 
+benefit everyone, 
+we can build the 
+trust needed to 
+cooperate in other 
+areas where there is 
+disagreement. 
+In addition to urgent 
+and co-ordinated
+action, joint efforts 
+between countries 
+as well as public -
+private cooperation 
+can also strengthen 
+financial stability, 
+technology 
+governance, 
+economic 
+development and 
+investments in 
+research, science, 
+education and 
+health.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+52 Copyright © 2023 Tech Mahindra. All Rights Reserved.
+Here are four priorities that can be advanced by working 
+together:
+1.Strengthen trade to increase resilience –We can start now by 
+lowering trade barriers to alleviate shortages and lower the prices of 
+various products.
+2.Step up joint efforts –With roughly 60% of low -income countries 
+with significant debt vulnerabilities, some will need debt restructuring. 
+Without decisive cooperation to ease their burdens, both they and 
+their creditors will be worse off. But a return to debt sustainability will 
+draw new investment and spur inclusive growth. That is why the 
+Group of Twenty’s Common Framework for Debt Treatment must be 
+improved without delay. This means putting in place clear procedures 
+and timelines for debtors and creditors —and making the framework 
+available to other highly -indebted vulnerable countries.
+3.Modernize cross -border payments –Inefficient payment systems are 
+another barrier to inclusive growth. Take remittances: the average 
+cost of an international transfer is 6.3%. This means some $45 billion 
+per year are diverted into the hands of intermediaries —and away 
+from millions of lower -income households.
+4.Confront climate change –During the COP26 climate conference, 
+130 countries, representing over 80% of global emissions, committed 
+to achieve net -zero carbon by around mid -century. But we urgently 
+need to close the gap between ambition and policy. To accelerate the 
+green transition, the IMF has argued for a comprehensive approach 
+that combines carbon pricing and investment in renewables, and 
+compensation for those adversely affected.
+53
+Our volunteer participation was 1170+ hours in FY 2022 -23
+Green MarshalGo-Green 
+through CNG 
+ServiceTerrace 
+Gardening 
+(To grow own 
+food) 
+Bamboo 
+Product a nd
+Paper Bag 
+Stall
+Awareness 
+Session by 
+Greenpeace
+Sapling 
+Distribution 
+on Earth 
+day
+Free PUC 
+Check up 
+CampGreen 
+Food 
+FestivalAwareness 
+Session on 
+Water 
+conservationSwachh
+Bharat 
+AbhiyanWorld 
+Environment 
+DayPlantation 
+Drive
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+54Commitment to Net Positive Gain
+Tech Mahindra understands that biodiversity is an important resource for our growth 
+and development. We are committed to conserve and enhance biodiversity, to 
+incorporate biodiversity into our day -to-day operations and promote sustainable 
+business practices that will not harm any species. Our Biodiversity policy 
+https://files.techmahindra.com/static/img/pdf/biodiversity -policy.pdf guides our 
+business decisions and actions across business activities and processes with 
+biodiversity risks. We are committed to reduce our carbon footprints in an effective 
+manner. Tree plantations help in preserving biodiversity while also removing carbon 
+dioxide from the atmosphere. It is beyond our restoration and avoidance activities. To 
+achieve such reduction in carbon footprints, we have collaborated with NGOs and 
+hosted multiple initiatives through Green Marshals to plant trees in and around our 
+campuses. We have planted 92,750+ trees in the last 7 years. We enabled drives to 
+ban single -use plastics at our campuses to save biodiversity and aquatic life. We used 
+bottle crusher plant to prevent plastic bottles being dumped in landfills and further 
+recycled and reused. None of Tech Mahindra Facilities, owned or leased, is adjacent to 
+protected areas or areas of high biodiversity value. There are no IUCN Red List species 
+or national conservation list species in the vicinity of our locations. We conduct 
+biodiversity assessments before building new projects, so that the project can be 
+designed and implemented effectively and sustainably. We are implementing green 
+building practices to reduce any surrounding environmental impact. Green building 
+practices ensures use of less toxic substance and VOC's. It creates net positive impact 
+on climate and natural environment and improve quality of life. Green building 
+supports ecosystem by promoting use of energy efficient products, water and clean 
+energy. We conduct quiz on restoring ecosystems, promoting ecofriendly products and 
+biodiversity. We conduct the Biodiversity Photography Contest for our associates, and 
+their families to promote biodiversity and its net gain.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+55Commitment to avoidance of negative impacts on threatened and 
+protected species
+Tech Mahindra’s priorities are sourcing renewable energy, becoming net -zero 
+and water positive, and adopting circular economy principles while protecting 
+and promoting biodiversity. We have green landscapes across locations with 
+diverse species of plants, trees, and shrubs in abundance. The serene ambience 
+is intensified when associates enjoy the swans in the pond at our campuses. 
+This encourages the associates to appreciate the importance of diversity 
+among all life species and understand how all life forms are interdependent and 
+impact each other.
+Does your organization assess the impact of its value chain on 
+biodiversity?
+There is a heightened need to conserve biodiversity, the species, flora, and 
+fauna. We ensure that we do not adversely impact biodiversity through our 
+operations. here are no IUCN Red List species or national conservation list 
+species in the vicinity of our locations. Our policy and initiatives enable us to 
+promote biodiversity conservation. We discourage use of single use plastic at 
+our campuses and by our stakeholders that disturbs aquatic life. We ensure 
+that none of our operations in the value chain have a negative impact on 
+biodiversity by complying with all the conditions identified and recommended 
+during environmental audits and assessments. We use less toxic products and 
+ensure no harm to surrounding ecosystem. We conduct plantation drives and 
+reforestation through drones. We actively monitor suppliers to ensure 
+environmental stewardship and biodiversity conservation. We assess our key 
+suppliers and partners through a  supply chain questionnaire, which checked 
+regulatory compliances with various aspects of ethical business conduct and 
+sustainability practices.
+Copyright © 2023 Tech Mahindra. All Rights Reserved.
+56 Copyright © 2023 Tech Mahindra. All Rights Reserved.Moderate Significant
+To TechMTo Stakeholders
+MajorModerate Significant MajorTalent and Skill Management
+Environment Social Governance BusinessWellness and Safety
+Innovation
+Ethics and ComplianceCorporate Governance
+Economic PerformanceClimate Change
+Energy Management
+Cyber Security and Data 
+Privacy
+Human Rights
+Risk Management
+Employee Engagement
+Customer RelationshipD&I
+Supply Chain Management
+Corporate Citizenship (CSR)Stakeholder Relationship
+Waste Management
+Water Stewardship
+BiodiversityBusiness Model 
+ResilienceWorkplace Practices
+Legal and Regulatory 
+ManagementFinancial MaterialityEnvironment and Social 
+Materiality
+To the extent necessary for an 
+understanding of the company’s 
+development, performance, and position……and impact of its activities
+Company
+Climate 
+Change Impact 
+on CompanyDouble Materiality
+In 2011, GRI published its G3.1 Sustainability Reporting Guidelines, which presented a new 
+definition of “materiality” as topics and indicators that
+•reflect the organization’s significant economic, environmental, and social impacts; or
+•would substantively influence the assessments and decisions of stakeholders.
+This constituted a meaningfully different use of the term “materiality” . Users were 
+redefined as “stakeholders” , a term that is widely understood to include not only investors 
+but also a broader set of users, including civil society, communities, employees, customers, 
+governments, and suppliers. Also, users and their objectives were not identified as the only 
+determination of materiality; an organization’s significant impacts on the economy, 
+environment or people could be determined as material under this new definition.
+Climate Company
+Company 
+Impact on 
+Climate
+Climate
+Primary Audience: InvestorsPrimary Audience: Consumers, Civil 
+Society, Employees, InvestorsCompany Impact on Climate 
+can be Financially Material
+* Financial Materiality is used here in the broad sense of affecting the value of the company, not just in the sense of affec ting measures 
+recognized in the financial statements.RECOMMENDATIONS OF THE TCFD
+Double Materiality MatrixNON -FINANCIAL REPORTING DIRECTIVE
+Competitive BehaviorAt TechM, we have conducted double materiality which helps us analyze the implications of material issues for the company’s f inancial value 
+and company’s impact on society & environment at large.57 Copyright © 2023 Tech Mahindra. All Rights Reserved.Material Issues (Executive Compensation)
+The below balanced scorecard (BSC) metrics are used for determining the executive 
+compensation of our leaders (CEO, CPO, CFO, CSO, Innovation Head, CRO, CISO) which 
+are linked to the key material topics identified for enterprise value creation –talent 
+and skill management, innovation and climate change :
+•Talent and Skill Management:
+▪CEO (Chief Executive Officer) –% of digital certified workforce (across IT, 
+including freshers and excluding subsidiaries), annualized Attrition %, ESAT 
+score
+▪CPO (Chief People Officer) –Leadership and talent onboarding , attrition %, 
+MCARES score
+▪CSO (Chief Sustainability Officer) –% of employees trained (employee 
+awareness on sustainability)
+▪Innovation Head –Creating a culture of Innovation across TechM
+▪CRO (Chief Risk Officer) –Enhance risk awareness andcontrols (in-house 
+trainings conducted)
+•Innovation:
+▪CEO (Chief Executive Officer) –Future bets andinnovation
+▪Innovation Head –Creating a culture of Innovation across TechM, SBU 
+innovation index, innovative climate change solutions, agri-tech, space tech, 
+defence tech, demonstrating thought leadership in the region (published 
+papers, awards, patents, co -creation)
+▪CISO (Chief Information Security Officer) –Automation
+•Climate Change:
+▪CEO (Chief Executive Officer) –Reduction in GHG emissions, reduction in 
+water intensity
+▪CSO (Chief Sustainability Officer) –Optimization of processes, climate risk 
+management, benchmark and integrate climate -related issues into strategy, 
+monitoring, reviewing environment targets,. integrated report, environment 
+roadmap targets
+▪CPO (Chief People Officer) –Reduction in GHG emissions, reduction in water 
+Intensity
+▪CFO (Chief Financial Officer) –Sustainable financing and climate change
+▪Innovation Head –Innovative climate change solutions
+▪CRO (Chief Risk Officer) –Climate change monitoring, reviewing risks, and 
+impactswww.youtube.com/user/techmahindra09
+www.facebook.com/techmahindra
+www.twitter.com/tech_mahindra
+www.linkedin.com/company/tech -mahindra
+www.techmahindra.com
+top.marketing@techmahindra.com
+Copyright ©Tech Mahindra 2023. AllRights Reserved.
+Disclaimer. Brand names, logos andtrademarks used herein remain theproperty oftheir respective owners.
+
+--------------------------------------------------------------------------------
